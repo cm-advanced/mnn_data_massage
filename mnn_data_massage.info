@@ -1,0 +1,9 @@
+name = "MNN Data Massage"
+description = "A module filled with lots of data cleanup functions and function tester hooks."
+package = "MNN Community Media Advanced"
+version = "7.x-1.0"
+core = "7.x"
+project = "mnn_data_massage"
+project_status_url = https://github.com/cm-advanced/mnn_data_massage
+php = "5.2.4"
+
